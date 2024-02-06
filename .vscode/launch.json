@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<io.course-api-h2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.SpringTutorial.io.courseapih2.Application",
+            "projectName": "io.course-api-h2",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
